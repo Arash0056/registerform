@@ -91,7 +91,9 @@ img{
 }
 .paragraphsection h1{
   text-shadow: 0 0 10px red;
-}
+} 
+
+/* style for registerform */
 .registersection{
   width: 30%;
   height: 500px;
